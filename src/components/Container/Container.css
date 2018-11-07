@@ -1,0 +1,12 @@
+.container {
+  background-image: linear-gradient(to right, #1020ad , rgb(214, 7, 7));
+  display: flex;
+  min-height: 80%;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 0px;
+  width: 100%;
+  margin: 0 auto;
+}
+
