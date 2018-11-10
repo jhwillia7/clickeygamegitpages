@@ -1,135 +1,122 @@
 [
   {
     "id": 1,
-    "image": "https://i.pinimg.com/474x/ce/bc/04/cebc046e5808cbfaea8e2bbc7d10566e.jpg",
-    "alt": "curry",
+    "image": "/assets/images/anthonydavis.jpg",
+    "alt": "davis",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "https://i.pinimg.com/474x/1d/26/d8/1d26d86eae8752e2ecf29bfa608e10d0.jpg",
-    "alt": "kyrie",
+    "image": "/assets/images/blakegriffin.png",
+    "alt": "griffin",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/1420d2df-cd03-45fd-9920-248a7f2ba3a5/d5tais1-4b878ae5-d391-4857-aeec-f694bd5bcaed.jpg",
-    "alt": "iverson",
-    "clicked": false
-  },
-  {
-    "id": 4,
-    "image": "https://i.pinimg.com/474x/fa/3c/fb/fa3cfb900393179f3b29a50a4291c6a0--basketball-art-basketball-legends.jpg",
-    "alt": "yao",
-    "clicked": false
-  },
-  {
-    "id": 5,
-    "image": "https://i.pinimg.com/474x/33/1f/85/331f85e92b9d4b45c1301aa66553b07e--dennis-rodman-nba-funny.jpg",
-    "alt": "rodman",
-    "clicked": false
-  },
-  {
-    "id": 6,
-    "image": "https://i.pinimg.com/474x/06/1e/dc/061edc9e88059565186c02a62b3c880f.jpg",
-    "alt": "derozan",
-    "clicked": false
-  },
-  {
-    "id": 7,
-    "image": "https://i.pinimg.com/474x/8b/ac/3e/8bac3ed66373c1fbb403a1ebf051ee88--lakers-wallpaper-basketball-photos.jpg",
-    "alt": "jabar",
-    "clicked": false
-  },
-  {
-    "id": 8,
-    "image": "https://i.pinimg.com/474x/6d/af/bd/6dafbd51856a90760029c1f07aa6bba2--funny-caricatures-celebrity-caricatures.jpg",
-    "alt": "jordan",
-    "clicked": false
-  },
-  {
-    "id": 9,
-    "image": "https://3.bp.blogspot.com/--AbuJ5qzDQE/W9SmGQ8fvLI/AAAAAAAAAc0/RmSE3Cd9hfAE5vMsRpKUjBmm5lZ1jzhfgCLcBGAs/s1600/Dwight%2BHoward%2BCaricature.jpg",
-    "alt": "howard",
-    "clicked": false
-  },
-  {
-    "id": 10,
-    "image": "https://i.imgur.com/82ZHevH.png",
-    "alt": "harden",
-    "clicked": false
-  },
-  {
-    "id": 11,
-    "image": "https://i.imgur.com/TLh91EW.png",
-    "alt": "rose",
-    "clicked": false
-  },
-  {
-    "id": 12,
-    "image": "https://i.imgur.com/4cedSEp.png",
+    "image": "/assets/images/draymondgreen.png",
     "alt": "draymond",
     "clicked": false
   },
   {
-    "id": 13,
-    "image": "https://i.pinimg.com/474x/33/31/26/333126dfe0b0c71151c7c1f1915e97b2--wilt-chamberlain-basketball-art.jpg",
-    "alt": "wilt",
+    "id": 4,
+    "image": "/assets/images/drj.jpg",
+    "alt": "DrJ",
     "clicked": false
   },
   {
-    "id": 14,
-    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/1420d2df-cd03-45fd-9920-248a7f2ba3a5/d6a5v3b-9b6661a2-eea5-4d18-9830-7ddd4f822929.jpg",
-    "alt": "dirk",
+    "id": 5,
+    "image": "/assets/images/dwaynewade.jpg",
+    "alt": "wade",
     "clicked": false
   },
   {
-    "id": 15,
-    "image": "https://i.pinimg.com/474x/22/f6/6b/22f66b2cfd7340c0ee603e9b9d9b3b63.jpg",
-    "alt": "tatum",
+    "id": 6,
+    "image": "/assets/images/greekfreek.jpg",
+    "alt": "greekfreak",
     "clicked": false
   },
   {
-    "id": 16,
-    "image": "http://hoopeduponline.com/wp-content/uploads/2015/01/george-gervin-blocknation.png",
-    "alt": "gervin",
+    "id": 7,
+    "image": "/assets/images/iverson.jpg",
+    "alt": "iverson",
     "clicked": false
   },
   {
-    "id": 17,
-    "image": "https://i.pinimg.com/474x/4b/8b/e1/4b8be196c8b1e3e6c4949ee3e2395472.jpg",
-    "alt": "Klay",
+    "id": 8,
+    "image": "/assets/images/jameshardin.png",
+    "alt": "hardin",
     "clicked": false
   },
   {
-    "id": 18,
-    "image": "https://i.pinimg.com/474x/cf/04/d7/cf04d7fc81f56e7b0dd7d508ee369a87.jpg",
+    "id": 9,
+    "image": "/assets/images/jaylenbrown.jpg",
     "alt": "jaylen",
     "clicked": false
   },
   {
-    "id": 19,
-    "image": "https://i.pinimg.com/474x/32/e6/46/32e646492981d7ad1d4fed6386cd5622.jpg",
+    "id": 10,
+    "image": "/assets/images/kareemabduljabar.jpg",
+    "alt": "kareem",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/kevindurrant.jpg",
     "alt": "durrant",
     "clicked": false
   },
   {
+    "id": 12,
+    "image": "/assets/images/klaythompson.jpg",
+    "alt": "klay",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "image": "/assets/images/larry-johnson.jpg",
+    "alt": "larryJohnson",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "image": "/assets/images/lebronjames.jpg",
+    "alt": "lebron",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "image": "/assets/images/majic.jpg",
+    "alt": "majic",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "image": "/assets/images/manuginobli.jpg",
+    "alt": "manu",
+    "clicked": false
+  },
+  {
+    "id": 17,
+    "image": "/assets/images/michaeljordan.jpg",
+    "alt": "jordan",
+    "clicked": false
+  },
+  {
+    "id": 18,
+    "image": "/assets/images/russellwestbrook.jpg",
+    "alt": "westbrook",
+    "clicked": false
+  },
+  {
+    "id": 19,
+    "image": "/assets/images/stephcurry.png",
+    "alt": "curry",
+    "clicked": false
+  },
+  {
     "id": 20,
-    "image": "http://hoopeduponline.com/wp-content/uploads/2014/07/Dominique-Wilkins-blocknation.png",
-    "alt": "wilkins",
-    "clicked": false
-  },
-  {
-    "id": 21,
-    "image": "https://i.pinimg.com/474x/d0/fc/82/d0fc82c62a19182b4d43dc7632203ba0.jpg",
-    "alt": "greekFreak",
-    "clicked": false
-  },
-  {
-    "id": 22,
-    "image": "http://hoopeduponline.com/wp-content/uploads/2015/01/bill-russell-blocknation.png",
-    "alt": "russell",
+    "image": "/assets/images/uncledrew.jpg",
+    "alt": "uncleDrew",
     "clicked": false
   }
-
-]
+  ]
